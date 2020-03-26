@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{ACA88E23-1EA7-401B-B5F5-FB82F000EC2A}</ProjectGuid>
+    <ProjectGuid>{FFFD2FED-4A73-4864-A739-53EFBE3F2B33}</ProjectGuid>
     <RootNamespace>ThreadPool</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -138,21 +138,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Action.h" />
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\NoFunctionException.h" />
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\ParameterizeAction.h" />
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\ParameterizeTask.h" />
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\ParameterizeTaskWithResult.h" />
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Status.h" />
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Task.h" />
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\TaskWithResult.h" />
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\ThreadPool.h" />
+    <ClInclude Include="Action.h" />
+    <ClInclude Include="NoFunctionException.h" />
+    <ClInclude Include="ParameterizeAction.h" />
+    <ClInclude Include="ParameterizeTask.h" />
+    <ClInclude Include="ParameterizeTaskWithResult.h" />
+    <ClInclude Include="Status.h" />
+    <ClInclude Include="Task.h" />
+    <ClInclude Include="TaskWithResult.h" />
+    <ClInclude Include="ThreadPool.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Action.cpp" />
-    <ClCompile Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Main.cpp" />
-    <ClCompile Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Task.cpp" />
-    <ClCompile Include="..\..\OSiSP---Lab4\OSiSP---Lab4\ThreadPool.cpp" />
+    <ClCompile Include="Action.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Task.cpp" />
+    <ClCompile Include="ThreadPool.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

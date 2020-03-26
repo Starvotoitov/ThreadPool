@@ -15,45 +15,45 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Action.h">
+    <ClInclude Include="Action.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\NoFunctionException.h">
+    <ClInclude Include="NoFunctionException.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\ParameterizeAction.h">
+    <ClInclude Include="ParameterizeAction.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\ParameterizeTask.h">
+    <ClInclude Include="ParameterizeTask.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\ParameterizeTaskWithResult.h">
+    <ClInclude Include="ParameterizeTaskWithResult.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Status.h">
+    <ClInclude Include="Status.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Task.h">
+    <ClInclude Include="Task.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\TaskWithResult.h">
+    <ClInclude Include="TaskWithResult.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OSiSP---Lab4\OSiSP---Lab4\ThreadPool.h">
+    <ClInclude Include="ThreadPool.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Action.cpp">
+    <ClCompile Include="Action.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Main.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\OSiSP---Lab4\OSiSP---Lab4\Task.cpp">
+    <ClCompile Include="Task.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\OSiSP---Lab4\OSiSP---Lab4\ThreadPool.cpp">
+    <ClCompile Include="ThreadPool.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

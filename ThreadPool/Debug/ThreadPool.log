@@ -1,2 +1,7 @@
-﻿  Main.cpp
+﻿  Action.cpp
+  Main.cpp
+  Task.cpp
+  ThreadPool.cpp
+C:\Users\LENOVO\source\repos\ThreadPool\ThreadPool\ThreadPool.cpp(92,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
   ThreadPool.vcxproj -> C:\Users\LENOVO\source\repos\ThreadPool\Debug\ThreadPool.exe
